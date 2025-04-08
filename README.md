@@ -35,7 +35,7 @@ Or download ZIP and extract it.
 
 Place the folder inside your XAMPP `htdocs` directory:
 ```bash
-C:\xampp\htdocs\COMPS351F-Group-Project
+C:\xampp\htdocs\libsystem
 ```
 Which `C:` should refer to the drive letter where your XAMPP is installed.
 
