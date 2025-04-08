@@ -1,6 +1,6 @@
 # Library Management System
 
-A web-based Library Management System built with PHP and MySQL. This project is based on the open-source code from [CampCodes YouTube Tutorial](https://www.youtube.com/watch?v=AK2hC0W5dGo).
+A web-based Library Management System built with PHP and MySQL. This project is based on the open-source code.
 
 ## Features
 
@@ -63,3 +63,12 @@ Start module `Apache` and `MySQL` in XAMPP control panel, then visit the followi
 ```bash
 http://localhost/libsystem/admin/
 ```
+The default **login name** is
+```bash
+admin
+```
+The default **password** is 
+```bash
+admin
+```
+
