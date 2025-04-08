@@ -8,6 +8,7 @@ A web-based Library Borrowing System built with PHP and MySQL. This project is b
 - Manage books, authors, categories
 - Issue/return books
 - Student registration
+- Real-time Updates
 - User-friendly dashboard
 
 ## Tech Stack
