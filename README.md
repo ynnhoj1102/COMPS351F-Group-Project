@@ -1,6 +1,6 @@
-# Library Management System
+# Library Borrowing System
 
-A web-based Library Management System built with PHP and MySQL. This project is based on the open-source code.
+A web-based Library Borrowing System built with PHP and MySQL. This project is based on the open-source code.
 
 ## Features
 
