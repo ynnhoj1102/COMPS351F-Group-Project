@@ -42,7 +42,7 @@ Which `C:` should refer to the drive letter where your XAMPP is installed.
 ### 4. Create MySQL Database
 
 - Open `phpMyAdmin` in XAMPP control panel
-    1. start module `Apache` and `MySQL` in XAMPP control panel
+    1. Start module `Apache` and `MySQL` in XAMPP control panel
     2. Chick `Admin` button in module `MySQL`
        
        Or open the following URL in the browser
