@@ -131,8 +131,8 @@ Each entry includes:
     - Book Title 
 
 #### Search and Navigation 
-Use the Search box to filter transactions by student, book title, ISBN, or date. 
-Use the Previous and Next buttons to navigate between pages if there are many entries 
+- Use the Search box to filter transactions by student, book title, ISBN, or date. 
+- Use the Previous and Next buttons to navigate between pages if there are many entries 
 
 ----
 
